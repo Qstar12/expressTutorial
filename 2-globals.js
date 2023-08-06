@@ -1,4 +1,7 @@
 //Globals - No window object
+/**
+ * !Global objects
+ */
 // console.log(__dirname);
 // console.log(__filename);
 // console.log(require);
